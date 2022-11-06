@@ -1,0 +1,9 @@
+[
+{"type":"header","version":"5.2.0","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"login"},
+{"type":"table","name":"profile","database":"login","data":
+[
+{"name":"porkalai","email":"itporkalaiselvi485@gmail.com","contact":"9994512478","password":"kalai","age":"21","gender":"female"}
+]
+}
+]
