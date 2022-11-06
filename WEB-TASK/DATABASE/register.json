@@ -1,0 +1,22 @@
+[
+{"type":"header","version":"5.2.0","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"login"},
+{"type":"table","name":"register","database":"login","data":
+[
+{"name":"kalai","email":"itporkalaiselvi485@gmail.com","contact":"9994512478","password":"kalai"},
+{"name":"selvi","email":"itporkalaiselvi485@gmail.com","contact":"9994512478","password":"hgyfjhb"},
+{"name":"kalai","email":"itporkalaiselvi485@gmail.com","contact":"9994512478","password":"kalai1234"},
+{"name":"kalai","email":"itporkalaiselvi485@gmail.com","contact":"9994512478","password":"pks2000skp"},
+{"name":"kalai","email":"itporkalaiselvi485@gmail.com","contact":"9994512478","password":"kalai"},
+{"name":"kalai","email":"itporkalaiselvi485@gmail.com","contact":"9994512478","password":"kalai"},
+{"name":"kalai","email":"itporkalaiselvi485@gmail.com","contact":"9994512478","password":"kalai"},
+{"name":"riya","email":"itriya85@gmail.com","contact":"8765728968","password":"riya234"},
+{"name":"kalai","email":"itporkalaiselvi485@gmail.com","contact":"9994512478","password":"kalai2345"},
+{"name":"kalai","email":"itporkalaiselvi485@gmail.com","contact":"9994512478","password":"porkaiai"},
+{"name":"kalai","email":"kalai@gmail.com","contact":"9994512478","password":"kalai"},
+{"name":"test","email":"test@gmail.com","contact":"1234567890","password":"test"},
+{"name":"kalai","email":"iselvi485@gmail.com","contact":"9994512478","password":"ajkhska"},
+{"name":"porkalai","email":"kalaiselvi485@gmail.com","contact":"9994784512","password":"kalai"}
+]
+}
+]
